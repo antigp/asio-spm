@@ -1,0 +1,4 @@
+module asio [system] {
+  umbrella header "asio.hpp"
+  export *
+}
